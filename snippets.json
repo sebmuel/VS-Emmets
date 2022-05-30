@@ -1,0 +1,7 @@
+{
+  "html": {
+    "snippets": {
+      "vd": "{echo '<pre>';\nvar_dump(${1});\necho '</pre>';}"
+    }
+  }
+}
